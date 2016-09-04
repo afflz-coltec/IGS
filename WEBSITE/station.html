@@ -11,45 +11,56 @@
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
+
   <nav class="white" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="#" class="brand-logo"><div><img src="fav.png" width="40" height="40"style="vertical-align:middle"/> <span style="vertical-align:middle">IGS</span></div></a>
+      <a id="logo-container" href="index.html" class="brand-logo"><div><img src="fav.png" width="40" height="40"style="vertical-align:middle"/> <span style="vertical-align:middle">IGS</span></div></a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="">gráficos</a></li>
+        <li><a href="">medidas passadas</a></li>
+        <li><a href="">timelapse</a></li>
+      </ul>
+
+      <ul id="nav-mobile" class="side-nav">
+        <li><a href="">gráficos</a></li>
+        <li><a href="">medidas passadas</a></li>
+        <li><a href="">timelapse</a></li>
+      </ul>
+      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
   </nav>
 
-
-  <footer class="page-footer teal">
-    <div class="container">
-      <div class="row">
-        <div class="col l6 s12">
-          <h5 class="white-text">Company Bio</h5>
-          <p class="grey-text text-lighten-4">We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p>
-
-
+  <main>
+    <br><br>
+    <div class="row">
+      <div class="col s10 offset-s1 z-depth-1 round">
+        <div class="row">
+          <div class="col s12">
+            <h4 class="center">Last measure</h4>
+          </div>
         </div>
-        <div class="col l3 s12">
-          <h5 class="white-text">Settings</h5>
-          <ul>
-            <li><a class="white-text" href="#!">Link 1</a></li>
-            <li><a class="white-text" href="#!">Link 2</a></li>
-            <li><a class="white-text" href="#!">Link 3</a></li>
-            <li><a class="white-text" href="#!">Link 4</a></li>
-          </ul>
+        <div class="row">
+          <div class="col s8">
+            <img class="round"src="batata.jpg" width="500" height="350" />
+          </div>
+          <br><br><br><br><br>
+          <div class="col s4 grey lighten-2 ">
+
+            <h6>Temperatura = 28°C</h6>
+            <h6>Umidade = 60%</h6>
+            <h6>Umidade amostra de solo = 30%</h6>
+            <h6>Medida realizada as 18:45 20/10/2016</h6>
+          </div>
         </div>
-        <div class="col l3 s12">
-          <h5 class="white-text">Connect</h5>
-          <ul>
-            <li><a class="white-text" href="#!">Link 1</a></li>
-            <li><a class="white-text" href="#!">Link 2</a></li>
-            <li><a class="white-text" href="#!">Link 3</a></li>
-            <li><a class="white-text" href="#!">Link 4</a></li>
-          </ul>
-        </div>
+
       </div>
     </div>
+  </main>
+  <footer class="page-footer green">
+
     <div class="footer-copyright">
       <div class="container">
-      Made by <a class="brown-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+        Made by <a class="brown-text text-lighten-3" href="http://materializecss.com">Materialize</a>
       </div>
     </div>
   </footer>
@@ -60,5 +71,5 @@
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
 
-  </body>
+</body>
 </html>

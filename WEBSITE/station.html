@@ -15,7 +15,7 @@
   <nav class="white" role="navigation">
     <div class="nav-wrapper container">
       <a id="logo-container" href="index.html" class="brand-logo"><div><img src="fav.png" width="40" height="40"style="vertical-align:middle"/> <span style="vertical-align:middle">IGS</span></div></a>
-      <ul class="right hide-on-med-and-down">
+      <ul class="right hide-on-small-only">
         <li><a href="">gráficos</a></li>
         <li><a href="">medidas passadas</a></li>
         <li><a href="">timelapse</a></li>
@@ -32,20 +32,25 @@
 
   <main>
     <br><br>
+    <div class="hide-on-med-and-down">
+      <br><br><br>
+    </div>
+
     <div class="row">
-      <div class="col s10 offset-s1 z-depth-1 round">
+      <div class="col s10 offset-s1 z-depth-3 green lighten-4 round">
+
         <div class="row">
           <div class="col s12">
             <h4 class="center">Last measure</h4>
           </div>
         </div>
-        <div class="row">
-          <div class="col s8">
-            <img class="round"src="batata.jpg" width="500" height="350" />
-          </div>
-          <br><br><br><br><br>
-          <div class="col s4 grey lighten-2 ">
 
+        <div class="row hide-on-med-and-up">
+          <div class="col s12 m12 center">
+            <img class="round"src="batata.jpg" width="300" height="225" />
+          </div>
+
+          <div class="col s12 m12 l12 green lighten-3 round ">
             <h6>Temperatura = 28°C</h6>
             <h6>Umidade = 60%</h6>
             <h6>Umidade amostra de solo = 30%</h6>
@@ -53,8 +58,35 @@
           </div>
         </div>
 
+        <div class="row hide-on-small-only hide-on-large-only">
+          <div class="col s12 m12 center">
+            <img class="round"src="batata.jpg" width="500" height="350" />
+          </div>
+
+          <div class="col s12 m10 l10 offset-l1 offset-m1 green lighten-3 round ">
+            <h6>Temperatura = 28°C</h6>
+            <h6>Umidade = 60%</h6>
+            <h6>Umidade amostra de solo = 30%</h6>
+            <h6>Medida realizada as 18:45 20/10/2016</h6>
+          </div>
+        </div>
+
+        <div class="row hide-on-med-and-down">
+          <div class="col l5 m8">
+            <img class="round"src="batata.jpg" width="640" height="480" />
+          </div>
+          <br><br><br><br><br>
+          <div class="col l4 m1 offset-l2 green lighten-3 round ">
+            <h5>Temperatura = 28°C</h5>
+            <h5>Umidade = 60%</h5>
+            <h5>Umidade amostra de solo = 30%</h5>
+            <h5>Medida realizada as 18:45 20/10/2016</h5>
+          </div>
+        </div>
+
       </div>
     </div>
+
   </main>
   <footer class="page-footer green">
 

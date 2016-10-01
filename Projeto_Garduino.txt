@@ -1,14 +1,12 @@
-# IGS
+Nomes:
 
-##Indoor Growing Station
+    Augusto Lopes
+    Henzo Alves
+    Marcelo Medeiros
 
-### Nomes:
+Grupo A:
 
-####-    Augusto Lopes
-####-    Henzo Alves
-####-    Marcelo Medeiros
-
-## A - Descrição da ideia: Uma mini estufa.
+1 - Descrição da ideia: Uma mini estufa.
 
 A.1 ) Necessidade: Um espaço com condições climáticas controladas para que possa
 ser programado para se adaptar a todo tipo de cultivo.
@@ -16,8 +14,6 @@ ser programado para se adaptar a todo tipo de cultivo.
 A.2 ) Necessidade: Display para mostrar informações da web sem a necessidade de
 acessar uma página.
 --------------------------------------------------------------------------------
-## B)
-
 B.1) Como é essa interface?
 	Um servidor web conectado a um netbook hospeda uma página html onde as
   informações serão exibidas.
@@ -35,7 +31,7 @@ B.4) Quem são os concorrentes no mercado?
 B.5) Qual o público alvo que vc quer atingir?
 	Pessoas comuns que podem ter vontade de cultivar plantas em sua casa.
 --------------------------------------------------------------------------------
-## C) Desenvolvimento do projeto:
+C) Desenvolvimento do projeto:
 
 	1 - Testar os sensores e sua comunicação com o arduino;
   2 - Testar funcionamento do display e encontrar o meio mais adequado para
@@ -57,56 +53,56 @@ ________________________________________________________________________________
   9 - Display local pra captar e exibir informações da web.
   10 - Teste final.
 --------------------------------------------------------------------------------
-## D) Estimativa do material a ser utilizado:
+D) Estimativa do material a ser utilizado:
 
--  Controle :
+  Controle :
 
--    Arduino nano.
--    Netbook.
+    Arduino nano.
+    Netbook.
 
--  Sensoreamento :
+  Sensoreamento :
 
--    Sensor de umidade do solo.
--    Sensor de umidade do ar.
--    Sensor de temperatura do ar.
--    Sensor de luminosidade.
--    Web cam do netbook.
+    Sensor de umidade do solo.
+    Sensor de umidade do ar.
+    Sensor de temperatura do ar.
+    Sensor de luminosidade.
+    Web cam do netbook.
 
--  Atuação :
+  Atuação :
 
--    Relé 5V - 110V/220V.
--    Lâmpada fluorescente.
--    Transistor (?).
--    Cooler 12v.
+    Relé 5V - 110V/220V.
+    Lâmpada fluorescente.
+    Transistor (?).
+    Cooler 12v.
 
--  Transmissão :
+  Transmissão :
 
--    Netbook
+    Netbook
 
--  Exibição :
+  Exibição :
 
--    Display 16/2 ou matriz de led.
+    Display 16/2 ou matriz de led.
 
--  Alimentação :
+  Alimentação :
 
--    Fonte 12V.
--    Tomada 110V.
+    Fonte 12V.
+    Tomada 110V.
 
 --------------------------------------------------------------------------------
-### WEB:
+WEB:
 
-- App responsivo para visualizar os dados dos sensores da estufa em tempo real e acesso a uma galeria com as fotos tiradas de forma periódica.
+App responsivo para visualizar os dados dos sensores da estufa em tempo real e acesso a uma galeria com as fotos tiradas de forma periódica.
 
-- Cada sensor vai ter uma tabela monstrando os dados das últimas análises feitas pelo sensor
-- Também vamos usar um gráfico para representar de uma forma mais clara o progresso das análises feitas por cada sensor
-- Para as fotos, vamos criar uma galeria separada para cada dia da estufa em funcionamento
+-Cada sensor vai ter uma tabela monstrando os dados das últimas análises feitas pelo sensor
+-Também vamos usar um gráfico para representar de uma forma mais clara o progresso das análises feitas por cada sensor
+-Para as fotos, vamos criar uma galeria separada para cada dia da estufa em funcionamento
 
-- Basicamente, este não será um app para controle da estufa, e sim para monitoramento da mesma, já que irrigação e registro diário com as fotos serão 100% automatizados, além de outras funções também 100% automatizadas.
+Basicamente, este não será um app para controle da estufa, e sim para monitoramento da mesma, já que irrigação e registro diário com as fotos serão 100% automatizados, além de outras funções também 100% automatizadas.
 
-- Para desenvolver o app vamos usar Bootstrap para o design, AngularJS para a estrutura do frontend e MySQL para a estrutura e afins do backend.
+Para desenvolver o app vamos usar Bootstrap para o design, AngularJS para a estrutura do frontend e MySQL para a estrutura e afins do backend.
 
 
-## E) Referências:
+E) Referências:
 
     https://www.youtube.com/watch?v=UjG2QGOC4aA
     https://www.youtube.com/watch?v=xpdpDo-gR3Q

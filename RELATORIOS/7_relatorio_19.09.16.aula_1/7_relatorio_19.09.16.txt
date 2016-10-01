@@ -1,0 +1,14 @@
+Relatório semanal - Robótica/Automação
+Data: 19/09/16
+Nome A: Henzo Alves
+Nome B: Augusto Lopes
+Nome C: Marcelo Medeiros
+
+O que fizemos?
+Hoje nós finalizamos o esquema da nossa estufa no SketchUp. O arquivo do modelo 3D está na pasta do projeto. Toda a estufa foi modelada na escala 1:1, ou seja, estamos usando as dimensões reais do projeto.
+
+Quais foram as dificuldades encontradas?
+Não houveram dificuldades na utilização do software de modelagem 3D, já que o nosso grupo está bem familiarizado com o software. Tudo foi feito com bastante facilidade.
+
+O que será feito para superar a(s) dificuldades semanais?
+Não houveram dificuldades

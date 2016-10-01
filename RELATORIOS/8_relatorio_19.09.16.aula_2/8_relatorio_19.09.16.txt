@@ -1,0 +1,14 @@
+Relatório semanal - Robótica/Automação:
+Data: 19/09/16
+Nome A: Henzo Alves
+Nome B: Augusto Lopes
+Nome C: Marcelo Medeiros
+
+O que fizemos?
+Na segunda metade da Aula de impacto duplo de LAB_OCS2 começamos a trabalhar no design do site e do banco de dados de forma a preparar o solo para quando a estufa ficar pronta.
+
+Quais foram as dificuldades encontradas?
+Definir uma maneira de sincronizar as leituras dos sensores com a camera em funcionamento e como o servidor do site.
+
+O que será feito para superar a(s) dificuldades semanais?
+Uma pesquisa extensa para definir uma maneira prática de sincronizar todos esses serviços.

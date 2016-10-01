@@ -61,36 +61,36 @@ ________________________________________________________________________________
 
 -  Controle :
 
--    Arduino nano.
--    Netbook.
+- -    Arduino nano.
+- -    Netbook.
 
 -  Sensoreamento :
 
--    Sensor de umidade do solo.
--    Sensor de umidade do ar.
--    Sensor de temperatura do ar.
--    Sensor de luminosidade.
--    Web cam do netbook.
+- -    Sensor de umidade do solo.
+- -    Sensor de umidade do ar.
+- -    Sensor de temperatura do ar.
+- -    Sensor de luminosidade.
+- -    Web cam do netbook.
 
 -  Atuação :
 
--    Relé 5V - 110V/220V.
--    Lâmpada fluorescente.
--    Transistor (?).
--    Cooler 12v.
+- -    Relé 5V - 110V/220V.
+- -    Lâmpada fluorescente.
+- -    Transistor (?).
+- -    Cooler 12v.
 
 -  Transmissão :
 
--    Netbook
+- -    Netbook
 
 -  Exibição :
 
--    Display 16/2 ou matriz de led.
+- -    Display 16/2 ou matriz de led.
 
 -  Alimentação :
 
--    Fonte 12V.
--    Tomada 110V.
+- -    Fonte 12V.
+- -    Tomada 110V.
 
 --------------------------------------------------------------------------------
 ### WEB:

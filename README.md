@@ -10,35 +10,37 @@
 
 ## A - Descrição da ideia: Uma mini estufa.
 
-#### 1 Necessidade:
+#### 1 - Necessidade:
+
   Um espaço com condições climáticas controladas para que possa ser programado para se adaptar a todo tipo de cultivo.
 
-#### 2 Necessidade:
+#### 2 - Necessidade:
+
   Display para mostrar informações da web sem a necessidade de acessar uma página.
 
 --------------------------------------------------------------------------------
 ## B)
 
 #### 1 - Como é essa interface?
-'''  
+
   Umidade do solo, luminosidade, Umidade e temperatura do ar.
-'''
+
 #### 2 - O que é monitorado?
-'''  
+
   Um servidor web conectado a um netbook hospeda uma página html onde as informações serão exibidas.
-'''
+
 #### 3 - O que é alterado ou controlado?
-'''
+
 	A ventilação da estufa que controla a umidade, a iluminação e temperatura interna do ar. A iluminação interna será implementada com uma lâmpada Fluorescente.
-'''
+
 #### 4 - Quem são os concorrentes no mercado?
-'''
+
 	A empresa que produziu o https://farmbot.io/ é um bom exemplo, embora o #### cda mesma seja o cultivo externo dependente das condições climáticas da região.
-'''
+
 #### 5 - Qual o público alvo que vc quer atingir?
-'''
+
 	Pessoas comuns que podem ter vontade de cultivar plantas em sua casa.
-'''
+
 --------------------------------------------------------------------------------
 ## C) Desenvolvimento do projeto:
 

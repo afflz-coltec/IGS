@@ -20,10 +20,10 @@
 ## B)
 
 #### 1 - Como é essa interface?
-  Um servidor web conectado a um netbook hospeda uma página html onde as informações serão exibidas.
+Umidade do solo, luminosidade, Umidade e temperatura do ar.
 
 #### 2 - O que é monitorado?
-	Umidade do solo, luminosidade, Umidade e temperatura do ar.
+  Um servidor web conectado a um netbook hospeda uma página html onde as informações serão exibidas.
 
 #### 3 - O que é alterado ou controlado?
 	A ventilação da estufa que controla a umidade, a iluminação e temperatura interna do ar. A iluminação interna será implementada com uma lâmpada Fluorescente.

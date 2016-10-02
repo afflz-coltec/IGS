@@ -4,9 +4,9 @@
 
 ### Nomes:
 
-####-    Augusto Lopes
-####-    Henzo Alves
-####-    Marcelo Medeiros
+-    Augusto Lopes
+-    Henzo Alves
+-    Marcelo Medeiros
 
 ## A - Descrição da ideia: Uma mini estufa.
 

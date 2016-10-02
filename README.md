@@ -10,9 +10,11 @@
 
 ## A - Descrição da ideia: Uma mini estufa.
 
-#### 1 Necessidade: Um espaço com condições climáticas controladas para que possa ser programado para se adaptar a todo tipo de cultivo.
+#### 1 Necessidade:
+  Um espaço com condições climáticas controladas para que possa ser programado para se adaptar a todo tipo de cultivo.
 
-#### 2 Necessidade: Display para mostrar informações da web sem a necessidade de acessar uma página.
+#### 2 Necessidade:
+  Display para mostrar informações da web sem a necessidade de acessar uma página.
 
 --------------------------------------------------------------------------------
 ## B)

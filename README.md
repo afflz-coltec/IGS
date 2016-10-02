@@ -37,15 +37,18 @@ B.5) Qual o público alvo que vc quer atingir?
 --------------------------------------------------------------------------------
 ## C) Desenvolvimento do projeto:
 
-	1 - Testar os sensores e sua comunicação com o arduino;
-  2 - Testar funcionamento do display e encontrar o meio mais adequado para
-  comunicação com a WEB.
-  3 - Planejamento do circuito de monitoramento e aplicação do mesmo.
-  4 - Produção do circuito de monitoramento.
-    4.1 - Controle da Webcam.
-    4.2 - Comunicação com o netbook.
+-	1 - Testar os sensores e sua comunicação com o arduino;
 
-  5 - Mandar informações para web.
+-  2 - Testar funcionamento do display e encontrar o meio mais adequado para
+  comunicação com a WEB.
+
+-  3 - Planejamento do circuito de monitoramento e aplicação do mesmo.
+
+-  4 - Produção do circuito de monitoramento.
+  -  4.1 - Controle da Webcam.
+  -  4.2 - Comunicação com o netbook.
+
+-  5 - Mandar informações para web.
 ________________________________________________________________________________
 
   6 - Design e construção da estufa.
@@ -59,38 +62,38 @@ ________________________________________________________________________________
 --------------------------------------------------------------------------------
 ## D) Estimativa do material a ser utilizado:
 
--  Controle :
+####  Controle :
 
-- -    Arduino nano.
-- -    Netbook.
+-     Arduino nano.
+-     Netbook.
 
--  Sensoreamento :
+####  Sensoreamento :
 
-- -    Sensor de umidade do solo.
-- -    Sensor de umidade do ar.
-- -    Sensor de temperatura do ar.
-- -    Sensor de luminosidade.
-- -    Web cam do netbook.
+-     Sensor de umidade do solo.
+-     Sensor de umidade do ar.
+-     Sensor de temperatura do ar.
+-     Sensor de luminosidade.
+-     Web cam do netbook.
 
--  Atuação :
+####  Atuação :
 
-- -    Relé 5V - 110V/220V.
-- -    Lâmpada fluorescente.
-- -    Transistor (?).
-- -    Cooler 12v.
+-     Relé 5V - 110V/220V.
+-     Lâmpada fluorescente.
+-     Transistor (?).
+-     Cooler 12v.
 
--  Transmissão :
+####  Transmissão :
 
-- -    Netbook
+-     Netbook
 
--  Exibição :
+####  Exibição :
 
-- -    Display 16/2 ou matriz de led.
+-     Display 16/2 ou matriz de led.
 
--  Alimentação :
+####  Alimentação :
 
-- -    Fonte 12V.
-- -    Tomada 110V.
+-     Fonte 12V.
+-     Tomada 110V.
 
 --------------------------------------------------------------------------------
 ### WEB:

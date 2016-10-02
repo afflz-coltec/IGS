@@ -98,8 +98,7 @@ acessar uma página.
 -     Fonte 12V.
 -     Tomada 110V.
 
---------------------------------------------------------------------------------
-### WEB:
+#### WEB:
 
 - App responsivo para visualizar os dados dos sensores da estufa em tempo real e acesso a uma galeria com as fotos tiradas de forma periódica.
 
@@ -111,6 +110,7 @@ acessar uma página.
 
 - Para desenvolver o app vamos usar Bootstrap para o design, AngularJS para a estrutura do frontend e MySQL para a estrutura e afins do backend.
 
+--------------------------------------------------------------------------------
 
 ## E) Referências:
 

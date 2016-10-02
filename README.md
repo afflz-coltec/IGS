@@ -1,6 +1,4 @@
-# IGS
-
-##Indoor Growing Station
+# IGS - Indoor Growing Station
 
 ### Nomes:
 
@@ -40,7 +38,7 @@
 #### 5 - Qual o público alvo que vc quer atingir?
 
   Pessoas comuns que podem ter vontade de cultivar plantas em sua casa.
-  
+
 --------------------------------------------------------------------------------
 ## C) Desenvolvimento do projeto:
 

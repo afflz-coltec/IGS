@@ -31,16 +31,14 @@
 
 #### 3 - O que é alterado ou controlado?
 
-	A ventilação da estufa que controla a umidade, a iluminação e temperatura interna do ar. A iluminação interna será implementada com uma lâmpada Fluorescente.
+  A ventilação da estufa que controla a umidade, a iluminação e temperatura interna do ar. A iluminação interna será implementada com uma lâmpada Fluorescente.
 
 #### 4 - Quem são os concorrentes no mercado?
 
-	A empresa que produziu o https://farmbot.io/ é um bom exemplo, embora o #### cda mesma seja o cultivo externo dependente das condições climáticas da região.
+  A empresa que produziu o https://farmbot.io/ é um bom exemplo, embora o #### cda mesma seja o cultivo externo dependente das condições climáticas da região.
 
 #### 5 - Qual o público alvo que vc quer atingir?
-
-	Pessoas comuns que podem ter vontade de cultivar plantas em sua casa.
-
+  Pessoas comuns que podem ter vontade de cultivar plantas em sua casa.
 --------------------------------------------------------------------------------
 ## C) Desenvolvimento do projeto:
 

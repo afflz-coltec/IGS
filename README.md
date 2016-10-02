@@ -51,17 +51,16 @@ acessar uma página.
   -  4.2 - Comunicação com o netbook.
 
 -  5 - Mandar informações para web.
-________________________________________________________________________________
 
-  6 - Design e construção da estufa.
-    6.1 - Design estrutural da estufa.
-    6.2 - Construção da estufa(Estrutural).
-    6.3 - Design da placa de circuito de controle do sistema.
-    6.4 - Construção da estufa(Instalação das lâmpadas e montagem geral).
+-  6 - Design e construção da estufa.
+  -  6.1 - Design estrutural da estufa.
+  -  6.2 - Construção da estufa(Estrutural).
+  -  6.3 - Design da placa de circuito de controle do sistema.
+  -  6.4 - Construção da estufa(Instalação das lâmpadas e montagem geral).
 
-  9 - Display local pra captar e exibir informações da web.
+-  9 - Display local pra captar e exibir informações da web.
 
-  10 - Teste final.
+-  10 - Teste final.
 
 --------------------------------------------------------------------------------
 ## D) Estimativa do material a ser utilizado:

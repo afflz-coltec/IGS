@@ -15,25 +15,27 @@ ser programado para se adaptar a todo tipo de cultivo.
 
 A.2 ) Necessidade: Display para mostrar informações da web sem a necessidade de
 acessar uma página.
+
 --------------------------------------------------------------------------------
 ## B)
 
-B.1) Como é essa interface?
+- B.1) Como é essa interface?
 	Um servidor web conectado a um netbook hospeda uma página html onde as
   informações serão exibidas.
 
-B.2) O que é monitorado?
+- B.2) O que é monitorado?
 	Umidade do solo, luminosidade, Umidade e temperatura do ar.
 
-B.3) O que é alterado ou controlado?
+- B.3) O que é alterado ou controlado?
 	A ventilação da estufa que controla a umidade, a iluminação e temperatura interna do ar. A iluminação interna será implementada com uma lâmpada Fluorescente.
 
-B.4) Quem são os concorrentes no mercado?
+- B.4) Quem são os concorrentes no mercado?
 	A empresa que produziu o https://farmbot.io/ é um bom exemplo, embora o foco
   da mesma seja o cultivo externo dependente das condições climáticas da região.
 
-B.5) Qual o público alvo que vc quer atingir?
+- B.5) Qual o público alvo que vc quer atingir?
 	Pessoas comuns que podem ter vontade de cultivar plantas em sua casa.
+
 --------------------------------------------------------------------------------
 ## C) Desenvolvimento do projeto:
 
@@ -58,7 +60,9 @@ ________________________________________________________________________________
     6.4 - Construção da estufa(Instalação das lâmpadas e montagem geral).
 
   9 - Display local pra captar e exibir informações da web.
+
   10 - Teste final.
+
 --------------------------------------------------------------------------------
 ## D) Estimativa do material a ser utilizado:
 

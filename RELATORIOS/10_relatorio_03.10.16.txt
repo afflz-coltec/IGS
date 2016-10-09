@@ -1,0 +1,18 @@
+Relatório semanal - Robótica/Automação:
+Data: 03/10/16
+Nome A: Henzo Alves
+Nome B: Augusto Lopes
+Nome C: Marcelo Medeiros
+
+O que fizemos?
+Entregamos o projeto para o Alexandre da Madeira e trabalhamos no site do projeto, organizando um respositorio para manter tudo funcional.
+
+Quais foram as dificuldades encontradas?
+Não foram encontradas dificuldades essa semana
+
+O que será feito para superar a(s) dificuldades semanais?
+-
+
+Links uteis :
+https://afflz.github.io/IGS/
+https://github.com/afflz/igs

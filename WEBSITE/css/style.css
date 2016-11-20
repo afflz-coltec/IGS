@@ -67,3 +67,7 @@ main {
 .round{
   border-radius: 25px;
 }
+.read-box{
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
